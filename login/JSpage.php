@@ -1,0 +1,31 @@
+<html lang="en">
+    <head>
+        <title>JS</title>
+    </head>
+    <style>
+     body {
+       background-image: url("kuch.gif");
+       background-size: 95%;
+     }
+   </style>
+        <h1><b><u>JAVASCRIPT</u></b></h1>
+        <h2>What is Javascript ?</h2>
+        <img name="JS" alt="Javascript" src="JS.jpeg" height="250px">
+        <p><h4>JavaScript (JS) is the world’smost popular lightweight, interpreted compiled programming language. It is also known as a
+             scripting language for web pages. It can be used for Client-side as well as Server-side developments.</h4></p><br><br>
+             
+             <h2><u>JavaScript can be added to your HTML file in two ways:</u></h2>
+
+             <ul>
+                <li><u><h3>Internal JavaScript:</h3></u></li> <b>We can add JS code directly to our HTML file by writing the code inside the script tag. The script
+                     tag can either be placed inside the head or the body tag according to the requirement.</b>
+                <li><u><h3>External JavaScript File:</h3></u></li> <b>We can create a file with .js extension and paste the JS code inside it. After creating the file, add
+                     this file in script src=”file_name.js” tag inside head tag of the HTML file.</b>
+             </ul>
+             <button onclick="history.back()">Go Back</button>
+
+
+        </body>
+        </html>
+            
+    

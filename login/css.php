@@ -1,0 +1,26 @@
+
+<html lang="en">
+    <head>
+        <title>CSS</title>
+        <style>
+            body {
+                background-image: url("Mast.gif");
+                background-size: 85%;
+            }
+        </style>
+    </head>
+   
+        <h1><b><u>CSS</b></u></h1>
+        <h2>What is CSS?</h2>
+        <img src="E:\Xampp\htdocs\login\Project development\\CSS.jpg" height="350px">
+        <p><h4>CSS (Cascading Style Sheets)is used to apply styles to web pages. Cascading Style Sheets are fondly referred to as CSS.
+             It is used to make web pages presentable. The reason for using this is to simplify the process of making web pages
+              presentable. It allows you to apply styles on web pages. More importantly, it enables you to do this independently of
+               the HTML that makes up each web page.</h4></p>
+        <h2>Why we learn CSS?</h2>
+        <p><h4>Styling is an essential property for any website. It increases the standards and overall look of the website that makes
+             it easier for the user to interact with it. A website can be made without CSS, as styling is MUST since no user would want to 
+             interact with a dull and shabby website. So for knowing Web Development, learning CSS is mandatory.</h4></p>
+             <button onclick="history.back()">Go Back</button>
+    </body>
+</html>
